@@ -41,7 +41,27 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-admin/stud-course-registration-admin-by-class/stud-course-registration-admin-by-class.component.html
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-admin/stud-course-registration-admin-by-class/stud-course-registration-admin-by-class.component.scss
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-admin/stud-course-registration-admin-by-class/stud-course-registration-admin-by-class.component.spec.ts
 
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-admin/stud-course-registration-admin-by-class/stud-course-registration-admin-by-class.component.ts
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-admin/stud-course-registration-admin-by-student/stud-course-registration-admin-by-student.component.html
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-admin/stud-course-registration-admin-by-student/stud-course-registration-admin-by-student.component.scss
+
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-admin/stud-course-registration-admin-by-student/stud-course-registration-admin-by-student.component.spec.ts
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-admin/stud-course-registration-admin-by-student/stud-course-registration-admin-by-student.component.ts
+
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-opening-closing/stud-course-registration-opening-closing.component.html
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-opening-closing/stud-course-registration-opening-closing.component.scss
+
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-opening-closing/stud-course-registration-opening-closing.component.spec.ts
+src/app/components/school/schooling/components/registration/stud-course-registration/stud-course-registration-opening-closing/stud-course-registration-opening-closing.component.ts
+
+src/app/components/school/study/components/program/cycle-year/student-course-plan-registration-call/student-course-plan-registration-call-add-edit/student-course-plan-registration-call-add-edit.component.html
+src/app/components/school/study/components/program/cycle-year/student-course-plan-registration-call/student-course-plan-registration-call-add-edit/student-course-plan-registration-call-add-edit.component.scss
+src/app/components/school/study/components/program/cycle-year/student-course-plan-registration-call/student-course-plan-registration-call-add-edit/student-course-plan-registration-call-add-edit.component.spec.ts
+src/app/components/school/study/components/program/cycle-year/student-course-plan-registration-call/student-course-plan-registration-call-add-edit/student-course-plan-registration-call-add-edit.component.ts
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
